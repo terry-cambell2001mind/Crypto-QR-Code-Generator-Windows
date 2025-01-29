@@ -3,7 +3,7 @@
 This program generates QR codes containing a cryptocurrency wallet address and the amount to send. The program allows you to configure the amount to display in the QR code, which can be useful for crypto transactions.
 
 <p align="left">
-    <img src="/screenshots/compwicor.webp" />
+    <img src="/assets/compwicor.webp" />
 </p>
 
 ## Features
@@ -34,7 +34,7 @@ This program generates QR codes containing a cryptocurrency wallet address and t
 4. The program will generate the QR code with the wallet address and amount, and you can save it.
 
 <p align="left">
-    <img src="/screenshots/crildose.webp" />
+    <img src="/assets/crildose.webp" />
 </p>
 
 ## Contributing
